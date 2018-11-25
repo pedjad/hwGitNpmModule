@@ -1,0 +1,26 @@
+{
+  "name": "hwgitnpmmodule",
+  "version": "0.0.1",
+  "description": "First GitHub. Simple TypeScript class.",
+  "main": "hwGitNpmModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedjad/hwGitNpmModule"
+  },
+  "keywords": [
+    "test",
+    "typescript",
+    "class",
+    "hello",
+    "world"
+  ],
+  "author": "pedja",
+  "license": "ISC",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
